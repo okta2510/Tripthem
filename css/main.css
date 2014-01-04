@@ -1,3 +1,4 @@
+/*tes*/
 @charset "utf-8";
 /* CSS Document */
 
@@ -125,7 +126,9 @@ background:url(../images/contact-icon.png) no-repeat; line-height:30px; }
 .contact-app .lineapp { background-position: left -30px;}
 .contact-app .kakaotalk { background-position: left -120px;}
 .contact-app .mail { background-position: left -150px;}
+.contact-app .bbm { background-position: left -180px;}
 .contact-app .url { background-position: left 0px;}
+
 .contact-app a {color:#333232;}
 .contact-app a:focus,.contact-app a:hover { text-decoration:underline;}
 
